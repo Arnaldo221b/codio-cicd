@@ -30,4 +30,9 @@ jobs:
 
       - name: Build
         run: yarn build
+
+      - uses: actions/download-artifact@v2
+        with:
+          name: assets
+          path: dist
         
