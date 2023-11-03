@@ -1,0 +1,15 @@
+{
+  "name": "codio-cicd",
+  "version": "1.0.0",
+  "description": "[![Action Practice](https://github.com/Arnaldo221b/codio-cicd/actions/workflows/actionPractice.yml/badge.svg)](https://github.com/Arnaldo221b/codio-cicd/actions/workflows/actionPractice.yml)",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
